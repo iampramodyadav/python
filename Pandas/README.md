@@ -1,6 +1,19 @@
 # Pandas
 - [00-Series.md](https://github.com/iampramodyadav/python/blob/main/Pandas/00-Series.md)
+- -  1  Series
+- - -  1.1  Imports
+- - - 1.2  Creating a Series from Python Objects
+- - - - 1.2.1  Index and Data Lists
+- - - - 1.2.2  From a Dictionary
+- -  2  Key Ideas of a Series
+- - - 2.1  Named Index
+- - - 2.2  Operations
+- - - 2.3  Between Series
 - [01-DataFrames.md](https://github.com/iampramodyadav/python/blob/main/Pandas/01-DataFrames.md)
+- - 1  DataFrames
+- - 2  Reading a .csv file for a DataFrame
+- - 3  DataFrames
+- - 4  Index Basics
 - [02-Conditional-Filtering.md](https://github.com/iampramodyadav/python/blob/main/Pandas/02-Conditional-Filtering.md)
 - [03-Useful-Methods.md](https://github.com/iampramodyadav/python/blob/main/Pandas/03-Useful-Methods.md)
 - [04-Missing-Data.md](https://github.com/iampramodyadav/python/blob/main/Pandas/04-Missing-Data.md)

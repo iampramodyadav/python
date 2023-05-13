@@ -1,6 +1,18 @@
 # python
 - [Python Cheat Sheet](https://github.com/iampramodyadav/python/blob/main/Python-CheatSheet.md)
+- [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 - [python practice problems](https://github.com/iampramodyadav/python/blob/main/daily_practice_problem.ipynb)
+
+# advance concepts of python
+
+- [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)
+- [advance concepts](https://github.com/iampramodyadav/python/blob/main/advance-Concepts-of-Python.ipynb)
+-  - Comprehension
+-  - Arguments in Python Function
+-  - Closure and Decorators
+-  - Generator and Iterators
+-  - Operator Overloading in Python
+
 # NumPy
 - [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.md)
 - [NumPy:Numerical Operation](https://github.com/iampramodyadav/python/blob/main/NumPy-numerical-operation-on-array.md)

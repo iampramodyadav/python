@@ -2,9 +2,9 @@
 - [Python Cheat Sheet](https://github.com/iampramodyadav/python/blob/main/Python-CheatSheet.md)
 - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 - [python practice problems](https://github.com/iampramodyadav/python/blob/main/daily_practice_problem.ipynb)
+- [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
 
 # advance concepts of python
-
 - [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)
 - [advance concepts](https://github.com/iampramodyadav/python/blob/main/advance-Concepts-of-Python.ipynb)
 -  - Comprehension
@@ -14,8 +14,9 @@
 -  - Operator Overloading in Python
 
 # NumPy
-- [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.md)
-- [NumPy:Numerical Operation](https://github.com/iampramodyadav/python/blob/main/NumPy-numerical-operation-on-array.md)
+- [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)
+- [NumPy: Notebook](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)
+- [NumPy:Numerical Operation](https://github.com/iampramodyadav/python/blob/main/NumPy-numerical-operation-on-array.ipynb)
 
 # Pandas
 - [00-Series.md](https://github.com/iampramodyadav/python/blob/main/Pandas/00-Series.md)

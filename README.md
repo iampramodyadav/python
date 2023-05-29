@@ -12,6 +12,18 @@
 -  - Closure and Decorators
 -  - Generator and Iterators
 -  - Operator Overloading in Python
+-  [advance concepts-2](https://github.com/iampramodyadav/python/blob/main/advance-Python-2.ipynb)
+-  - Collections
+-  - Itertools
+-  - Lambda
+-  - Exceptions And Errors
+-  - Logging
+-  - JSON
+-  - Threading vs Multiprocessing
+-  - Multithreading
+-  - Multiprocessing
+-  - Shallow vs Deep Copying
+-  - Context Managers
 
 # NumPy
 - [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)

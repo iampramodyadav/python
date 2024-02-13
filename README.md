@@ -1,10 +1,14 @@
-# python
+## python notebook 
 - **[Python Note Book](https://github.com/iampramodyadav/python/blob/main/My_Python_Notebook_(Pramod)_I.ipynb)**
-- [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 - [python practice problems](https://github.com/iampramodyadav/python/blob/main/daily_practice_problem.ipynb)
-- [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
 
-# advance concepts of python
+Extra note:
+   - [OOPS-python](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/Object-Oriented%20Programming.ipynb)
+   - [Python-Operators](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/Python-Operators.ipynb)
+   - [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
+   - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
+
+## advance concepts of python
 - [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)
 - [advance concepts](https://github.com/iampramodyadav/python/blob/main/advance-Concepts-of-Python.ipynb)
 -  - Comprehension
@@ -25,12 +29,14 @@
 -  - Shallow vs Deep Copying
 -  - Context Managers
 
-# NumPy
+**[DSA-python](https://github.com/iampramodyadav/Data-Struct-Algo?tab=readme-ov-file)**
+
+## NumPy
 - [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)
 - [NumPy: Notebook](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)
 - [NumPy:Numerical Operation](https://github.com/iampramodyadav/python/blob/main/NumPy-numerical-operation-on-array.ipynb)
 
-# Pandas
+## Pandas
 - [00-Series.md](https://github.com/iampramodyadav/python/blob/main/Pandas/00-Series.md)
 - [01-DataFrames.md](https://github.com/iampramodyadav/python/blob/main/Pandas/01-DataFrames.md)
 - [02-Conditional-Filtering.md](https://github.com/iampramodyadav/python/blob/main/Pandas/02-Conditional-Filtering.md)

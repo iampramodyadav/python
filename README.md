@@ -8,6 +8,9 @@ Extra note:
    - [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
    - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 
+## DSA repos
+**[DSA-python-repo](https://github.com/iampramodyadav/Data-Struct-Algo?tab=readme-ov-file)**
+
 ## advance concepts of python
 - [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)
 - [advance concepts](https://github.com/iampramodyadav/python/blob/main/advance-Concepts-of-Python.ipynb)
@@ -29,7 +32,7 @@ Extra note:
 -  - Shallow vs Deep Copying
 -  - Context Managers
 
-**[DSA-python](https://github.com/iampramodyadav/Data-Struct-Algo?tab=readme-ov-file)**
+
 
 ## NumPy
 - [NumPy:Basic](https://github.com/iampramodyadav/python/blob/main/NumPy-basic.ipynb)

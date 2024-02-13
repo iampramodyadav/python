@@ -8,10 +8,10 @@ Extra note:
    - [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
    - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 
-## DSA repos
+### python DSA repos
 **[DSA-python-repo](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/README.md)**
 
-## advance concepts of python
+## advance python
 - [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)
 - [advance concepts](https://github.com/iampramodyadav/python/blob/main/advance-Concepts-of-Python.ipynb)
 -  - Comprehension

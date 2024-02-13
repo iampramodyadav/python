@@ -9,7 +9,7 @@ Extra note:
    - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 
 ## DSA repos
-**[DSA-python-repo](https://github.com/iampramodyadav/Data-Struct-Algo?tab=readme-ov-file)**
+**[DSA-python-repo](https://github.com/iampramodyadav/Data-Struct-Algo/blob/main/README.md)**
 
 ## advance concepts of python
 - [RegEx](https://github.com/iampramodyadav/python/blob/main/Python_RegEx.ipynb)

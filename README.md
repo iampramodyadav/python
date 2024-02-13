@@ -1,5 +1,5 @@
 # python
-- [Python Cheat Sheet](https://github.com/iampramodyadav/python/blob/main/Python-CheatSheet.md)
+- **[Python Cheat Sheet](https://github.com/iampramodyadav/python/blob/main/My_Python_Notebook_(Pramod)_I.ipynb)**
 - [Built in functions](https://github.com/iampramodyadav/python/blob/main/Built_in_functions.ipynb)
 - [python practice problems](https://github.com/iampramodyadav/python/blob/main/daily_practice_problem.ipynb)
 - [SymPy intro](https://github.com/iampramodyadav/python/blob/main/SymPy_intro.ipynb)
